@@ -1,0 +1,16 @@
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Release\MaxVideoClub.exe.config
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Release\MaxVideoClub.exe
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Release\MaxVideoClub.pdb
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.AdminSocios.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.fmLogin.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmAdminsAccounts.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmModificarParther.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmModificarPelicula.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmRenta.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmPartners.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmPeliculas.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.frmPrincipal.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.Properties.Resources.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.csproj.GenerateResource.Cache
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.exe
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Release\MaxVideoClub.pdb

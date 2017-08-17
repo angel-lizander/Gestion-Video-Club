@@ -1,0 +1,100 @@
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe.config
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.pdb
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.Properties.Resources.resources
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csproj.GenerateResource.Cache
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.exe
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.pdb
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.fmLogin.resources
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPrincipal.resources
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmAdminsAccounts.resources
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPeliculas.resources
+F:\Mis Archivos\Software projects\C#\MaxVideoClub\MaxVideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csprojResolveAssemblyReference.cache
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe.config
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.pdb
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.dll
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.pdfa.dll
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xtra.dll
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xml
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmDevoluciones.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmLogin.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmAdminsAccounts.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarParther.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarPelicula.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRenta.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPartners.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPeliculas.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPrincipal.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.Properties.Resources.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRentasActuales.resources
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csproj.GenerateResource.Cache
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.exe
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.pdb
+F:\Mis Archivos\Software projects\C#\VideoClub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csprojResolveAssemblyReference.cache
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe.config
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.exe
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.pdb
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.pdb
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.dll
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xtra.dll
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xml
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csprojResolveAssemblyReference.cache
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmDevoluciones.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmLogin.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmAdminsAccounts.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarParther.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarPelicula.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRenta.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPartners.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPeliculas.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPrincipal.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.Properties.Resources.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRentasActuales.resources
+C:\Users\Luz Valenzuela\Documents\GitHub\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csproj.GenerateResource.Cache
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe.config
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.exe
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.pdb
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.pdb
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\itextsharp.dll
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xtra.dll
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xml
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csprojResolveAssemblyReference.cache
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmDevoluciones.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmLogin.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmAdminsAccounts.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarParther.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarPelicula.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRenta.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPartners.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPeliculas.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPrincipal.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.Properties.Resources.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRentasActuales.resources
+C:\Users\Luz Valenzuela\Desktop\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csproj.GenerateResource.Cache
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe.config
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.exe
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.pdb
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csprojResolveAssemblyReference.cache
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmDevoluciones.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmAdminsAccounts.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarParther.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmModificarPelicula.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRenta.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPartners.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPeliculas.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmPrincipal.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.Properties.Resources.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmRentasActuales.resources
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.csproj.GenerateResource.Cache
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.exe
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\MaxVideoClub.pdb
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\itextsharp.dll
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\itextsharp.pdfa.dll
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xtra.dll
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\bin\Debug\itextsharp.xml
+C:\Users\Ismael\Documents\Visual Studio 2010\VideoClub\MaxVideoClub\obj\Debug\MaxVideoClub.frmLogin.resources
